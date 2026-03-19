@@ -16,8 +16,8 @@ Alongside the written report, I have created **five shell scripts** that demonst
 
 ---
 
-## 📌 Repository Contents
-oss-audit-[rollnumber]/
+``` ## 📌 Repository Contents
+oss-audit-24BCE10474/
 ├── README.md
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
