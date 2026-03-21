@@ -90,3 +90,14 @@ Alongside the written report, I have created **five shell scripts** that demonst
 -   Bash shell
 -   Standard utilities: `ls`, `du`, `grep`, `awk`, `dpkg`
 
+## 📌 ScreenShots
+
+![Script 1 Output](image/ss1.png)
+
+![Script 2 Output](image/ss2.png)
+
+![Script 3 Output](image/ss3.png)
+
+![Script 4 Output](image/ss4.png)
+
+![Script 5 Output](image/ss5.png)
